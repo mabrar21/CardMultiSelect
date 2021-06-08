@@ -97,7 +97,7 @@ export default class IntentSelection extends Component {
                     </Modal.Header>
                     <Modal.Body>
                         <p>
-                            Example: If the user says &nbsp;
+                            Example: If the user says any of the following &nbsp;
                             <ul>
                                 {
                                     this.state.seeMoreIntent?.trainingData?.expressions?.map(expression =>

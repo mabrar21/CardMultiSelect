@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CardMultiSelect/static/css/main.537ac3c1.chunk.css",
-    "main.js": "/CardMultiSelect/static/js/main.649b02ef.chunk.js",
-    "main.js.map": "/CardMultiSelect/static/js/main.649b02ef.chunk.js.map",
+    "main.js": "/CardMultiSelect/static/js/main.61caa64c.chunk.js",
+    "main.js.map": "/CardMultiSelect/static/js/main.61caa64c.chunk.js.map",
     "runtime-main.js": "/CardMultiSelect/static/js/runtime-main.e832b9dd.js",
     "runtime-main.js.map": "/CardMultiSelect/static/js/runtime-main.e832b9dd.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/CardMultiSelect/static/css/2.4c97ca4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.0a826848.chunk.js",
     "static/css/main.537ac3c1.chunk.css",
-    "static/js/main.649b02ef.chunk.js"
+    "static/js/main.61caa64c.chunk.js"
   ]
 }
